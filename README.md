@@ -8,3 +8,12 @@ I chose to use the Hologram Shader as I wanted to create a similar look to what 
 
 Reflection:
 For this activity I wanted to experiment what I could do to adjust the hologram shader in a way to create a cool visual that draws the players attention and directs them to different areas like a tutorial. I wanted to keep the adjustments relatively simple and mainly create a base to what I want, so it could be looked at later and add smaller details.
+
+Wednesday Lab Dropbox 3:
+I chose to use the Glass Shader and add some noise to the Shader to create a pulse affect to it. I believe with this shader it could add an interesting magical affect to another object by showcasing some sort of magical power around the object. 
+<img width="290" height="607" alt="Screenshot 2026-11-19 144507" src="https://github.com/user-attachments/assets/7e322fd3-d8b0-4224-a4a6-9b89ae6a6b81" />
+<img width="1052" height="568" alt="Screenshot 2026-11-19 144446" src="https://github.com/user-attachments/assets/157612fe-6468-48e7-b001-d9aa62f6bfa6" />
+<img width="590" height="314" alt="Screenshot 2026-11-19 144420" src="https://github.com/user-attachments/assets/549ce2a6-1813-4176-8ada-b19bca144043" />
+
+Reflection:
+For this activity I wanted to do something that involved the Noise Node of some sorts as I wanted to learn some different ways to use Noise in Shaders. I kept the adjustments for this activity fairly simple to allow myself to get the base of the Noise Nodes
